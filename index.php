@@ -13,25 +13,9 @@
     
     <link rel="stylesheet" href="style.css">
 
-    
-    
-    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5240859085453706"
-     crossorigin="anonymous"></script>
 
 </head>
 <body class="background">
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5240859085453706"
-     crossorigin="anonymous"></script>
-    
-    <script>(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('vooculok.com',5411712,document.createElement('script'))</script>
-    
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5240859085453706"
-     crossorigin="anonymous"></script>
-
-    <script async="async" data-cfasync="false" src="//arsnivyr.com/1?z=5411838"></script>
 
       <!-- NAVBAR -->
      
